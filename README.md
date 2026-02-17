@@ -26,7 +26,11 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ## 💻 Skills
 
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,typescript,spring,nodejs,mysql,postgres,mongodb,androidstudio,react,nextjs,vue,svelte,vite,tailwind,git,githubactions,docker,aws,gcp,figma&perline=12)
+<p align="center">
+  <a href="https://github.com/LeonardoDizConde">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,typescript,spring,nodejs,mysql,postgres,mongodb,androidstudio,react,nextjs,vue,svelte,vite,tailwind,git,githubactions,docker,aws,gcp,figma&perline=12" />
+  </a>
+</p>
 
 ## 📈 Stats
 
