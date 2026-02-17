@@ -1,11 +1,11 @@
 # Welcome to Leonidas Conde's GitHub!
 
 
-Hi there👋! I'm **Leonardo Conde**, but you can call me **Leonidas Conde**, both are fine! I've been working in software development since 2021, with experience in **Fullstack Development** (Frontend & Backend), **Mobile Development** (Android-focused), **Databases**, **Infrastructure**, **Blockchain**, **Bots**, and **CI/CD**.
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"/> ! I'm **Leonardo Conde**, but you can call me **Leonidas Conde**, both are fine. I've been working in software development since 2021, with experience in **Fullstack Development**, **Infrastructure**, **Blockchain**, **Bots**, **CI/CD**, and exploratory work with **Artificial Intelligence & Machine Learning**.
 
 - 🌍 I’m from: São Paulo - SP, Brazil 🇧🇷
 - 🌱 I’m currently learning: Artificial intelligence & Machine Learning
-- 👯 I’m looking to collaborate on: Backend, Mobile, and AI projects
+- 👯 I’m looking to collaborate on: Open-source antifraud & identity security
 - 😄 Pronouns: He / Him / His
 - 📫 How to reach me:
 
@@ -21,8 +21,12 @@ Hi there👋! I'm **Leonardo Conde**, but you can call me **Leonidas Conde**, bo
 ## 🎓 Education
 
 - **MBA in Software Engineering** - _(Poli USP, 2025-2027, in progress)_
-- **Postgraduate in AI & Machine Learning** - _(PUC Minas, 2024-2025, in progress)_
+- **Postgraduate in AI & Machine Learning** - _(PUC Minas, 2025)_
 - **College-Bachelor in Computer Science** - _(PUC SP, 2022)_
+
+## 💻 Skills
+
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,typescript,spring,nodejs,mysql,postgres,mongodb,androidstudio,react,nextjs,vue,svelte,vite,tailwind,git,githubactions,docker,aws,gcp,figma&perline=12)
 
 ## 📈 Stats
 
@@ -38,13 +42,6 @@ Hi there👋! I'm **Leonardo Conde**, but you can call me **Leonidas Conde**, bo
 <summary>📊 Check out my detailed GitHub stats</summary>
     <br/>
     <div align="center">
-        <a href="https://github.com/LeonardoDizConde">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoDizConde&show_icons=true&theme=github_dark&count_private=true"/>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDizConde&layout=compact&langs_count=6&theme=github_dark"/>
-        </a>
-    </div>
-    <br/>
-    <div align="center">
         <div>
             <a href="https://github.com/LeonardoDizConde">
             <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoDizConde&theme=github_dark" />
@@ -55,6 +52,11 @@ Hi there👋! I'm **Leonardo Conde**, but you can call me **Leonidas Conde**, bo
         </a>
         <a href="https://github.com/LeonardoDizConde">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoDizConde&theme=github_dark" />
+        </a>
+        <a href="https://github.com/LeonardoDizConde">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardoDizConde&theme=github_dark" />
+        </a><a href="https://github.com/LeonardoDizConde">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeonardoDizConde&theme=github_dark&utcOffset=8" />
         </a>
         <a href="https://github.com/LeonardoDizConde">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoDizConde&theme=github_dark&hide_border=true&border_radius=0&card_width=682" />
